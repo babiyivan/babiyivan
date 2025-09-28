@@ -7,7 +7,7 @@ My name is Ivan, and I'm a master's student and research assistant at TU Wien in
 - 💬 I’m looking to collaborate on all things data and AI. [Let's connect!](https://www.linkedin.com/in/ivanbabiy/)
 <!-- <br/> -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,r,git,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,r" /><br> <!-- git,linux,docker -->
 </div>
 
 <!--
