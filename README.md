@@ -6,14 +6,9 @@ My name is Ivan, and I'm a master's student and research assistant at TU Wien in
 - 🌱 I’m currently learning software engineering with Python, and system design for machine learning in production.
 - 💬 I’m looking to collaborate on all things data and AI. [Let's connect!](https://www.linkedin.com/in/ivanbabiy/)
 
-
-<!--
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 -->
-This is my tech stack:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,r,git,linux,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,r,git,docker" /><br>
 </div>
 
 <!--
