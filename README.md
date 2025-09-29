@@ -4,7 +4,25 @@ My name is Ivan, and I'm a master's student and research assistant at TU Wien in
 
 - 🔭 I’m currently working on semantic segmentation in aerial imagery with deep learning, and developing an agent-based model (ABM) for public transport systems.
 - 🌱 I’m currently learning software engineering with Python, and system design for machine learning in production.
-- 💬 I’m looking to collaborate on all things data and AI. Find my resume [here](https://github.com/babiyivan/babiyivan/raw/main/resume.pdf). Drop me an [e-mail](mailto:ivanbabiy@outlook.pt) or let's connect on [LinkedIn](https://www.linkedin.com/in/ivanbabiy/)!
+- 💬 I’m looking to collaborate on all things data and AI.
+<!--
+[resume](https://github.com/babiyivan/babiyivan/raw/main/resume.pdf)
+[e-mail](mailto:ivanbabiy@outlook.pt)
+[LinkedIn](https://www.linkedin.com/in/ivanbabiy/)
+-->
+
+<br/>
+<div align="center">
+    <a href="https://github.com/babiyivan/babiyivan/raw/main/resume.pdf">
+        <img src="https://img.shields.io/badge/PDF-CV-green?style=flat-square&logo=adobe">
+    </a>  
+    <a href="https://www.linkedin.com/in/ivanbabiy/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:ivanbabiy@outlook.pt">
+        <img src="https://img.shields.io/badge/-Email-green?style=flat-square&logo=gmail&logoColor=white">
+    </a>
+</div>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,r" /><br> <!-- git,linux,docker -->
