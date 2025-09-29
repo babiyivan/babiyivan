@@ -4,7 +4,7 @@ My name is Ivan, and I'm a master's student and research assistant at TU Wien in
 
 - 🔭 I’m currently working on semantic segmentation in aerial imagery with deep learning, and developing an agent-based model (ABM) for public transport systems.
 - 🌱 I’m currently learning software engineering with Python, and system design for machine learning in production.
-- 💬 I’m looking to collaborate on all things data and AI. [Let's connect!](https://www.linkedin.com/in/ivanbabiy/)
+- 💬 I’m looking to collaborate on all things data and AI. Find my resume [here](https://github.com/babiyivan/babiyivan/raw/main/resume.pdf). Drop me an [e-mail](mailto:ivanbabiy@outlook.pt) or let's connect on [LinkedIn](https://www.linkedin.com/in/ivanbabiy/)!
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,r" /><br> <!-- git,linux,docker -->
