@@ -3,7 +3,7 @@
 My name is Ivan, and I'm a master's student and research assistant at TU Wien interested in all things Python & Data Science.
 
 - 🔭 I’m currently working on semantic segmentation in aerial imagery with deep learning, and developing an agent-based model (ABM) for public transport systems.
-- 🌱 I’m currently learning software engineering with Python, and system design for machine learning in production.
+- 🌱 I’m currently learning software engineering and design patterns with Python, and system design for machine learning in production.
 - 💬 I’m looking to collaborate on all things data and AI.
 <!--
 [resume](https://github.com/babiyivan/babiyivan/raw/main/resume.pdf)
