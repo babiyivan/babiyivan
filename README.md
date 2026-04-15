@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Ivan, and I'm a master's student and research assistant at TU Wien interested in all things Python & Data Science.
+My name is Ivan, I am a data scientist at the European Central Bank as well as master's student at TU Wien interested in all things Python & Data Science.
 
-- 🔭 I’m currently working on semantic segmentation in aerial imagery with deep learning, and developing an agent-based model (ABM) for public transport systems.
-- 🌱 I’m currently learning software engineering and design patterns with Python, and system design for machine learning in production.
-- 💬 I’m looking to collaborate on all things data and AI.
+- 🔭 I’m currently working on semantic segmentation in aerial imagery with deep learning.
+- 🌱 I’m currently learning software engineering and design patterns with Python, as well as system design for machine learning in production.
+- 💬 I have developed an agent-based model (i.e. simulator) for public transport systems with LLM functionalities.
 <!--
 [resume](https://github.com/babiyivan/babiyivan/raw/main/resume.pdf)
 [e-mail](mailto:ivanbabiy@outlook.pt)
