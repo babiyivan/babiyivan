@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ivan, I am a data scientist at the European Central Bank and a student at TU Wien interested in all things Python & Data Science.
+My name is Ivan, I am a data scientist at the European Central Bank and a master's student at TU Wien interested in all things Python & Data Science.
 
 - 🔭 I am working on semantic segmentation in aerial imagery with deep learning (CNNs and transformers).
 - 🌱 I am learning design patterns with Python, and system design for machine learning in production.
